@@ -2,7 +2,7 @@
   <v-app>
     <v-main>
       <Header></Header>
-      <v-container>
+      <v-container class="Abouts">
         <AboutMe></AboutMe>
       </v-container>
       <v-container>
@@ -27,3 +27,8 @@ import Skills from './components/Skills.vue';
 
   //
 </script>
+
+<style scoped>
+
+
+</style>
