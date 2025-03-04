@@ -4,7 +4,7 @@
         <!-- Columna de la imagen -->
         <v-col cols="12" md="6" class="text-center">
           <v-avatar size="300" class="profile-image">
-            <v-img src="D:\Vue\Portfolio\src\assets\profilephoto.jpg" alt="Tu Nombre"></v-img>
+            <v-img src="" alt="Tu Nombre"></v-img>
           </v-avatar>
         </v-col>
   
