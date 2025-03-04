@@ -1,7 +1,7 @@
 <template>
   <v-footer class="footer">
   
-    2025 - Alan Robledo
+    2025 - Alan Robledo - Contactar
   
   </v-footer>
   </template>
