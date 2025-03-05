@@ -12,13 +12,11 @@
       </v-app-bar>
   
       <!-- Sección Parallax -->
-      <v-parallax src="" height="100vh">
+      <v-parallax src="https://i.ibb.co/Cp2V69Qs/dark-space-wallpaper-2880x900.jpg" height="100vh">
         <v-container
           fill-height
-          class="text-center d-flex flex-column align-center justify-end pb-16"
+          class="text-center d-flex flex-column align-center justify-end pb-14"
         >
-        <br>
-        <br>
         <br>
         <br>
         <br>
@@ -41,6 +39,9 @@
         <!-- Botón de Contacto -->
         <v-btn href="mailto:tu-email@example.com"color="white" outlined>
           <v-icon left>mdi-email</v-icon>Contact me</v-btn>
+          
+
+          
           </div>
         </v-container>
       </v-parallax>
