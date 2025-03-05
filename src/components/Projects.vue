@@ -48,16 +48,16 @@
         projects: [
           {
             title: 'Ey-Commerce',
-            description: 'Una aplicación web moderna construida con Vue.js y Vuetify.',
-            image: 'https://via.placeholder.com/400x200',
-            link: 'https://proyecto1.com',
+            description: 'Una aplicación web moderna construida con Vue.js y Vuetify. Es una tienda online en desarrollo',
+            image: 'https://i.ibb.co/NdxzFLHz/Screenshot-2025-03-04-231728.png',
+            link: 'https://eycommerce2.netlify.app/',
             progress: 80, // Porcentaje de progreso
           },
           {
-            title: 'Proyecto 2',
-            description: 'Un sistema de gestión de contenido desarrollado con Node.js y MongoDB.',
-            image: 'https://via.placeholder.com/400x200',
-            link: 'https://proyecto2.com',
+            title: 'Musik',
+            description: 'Aplicación de músicos para músicos. La idea es conectar a la comunidad haciendo más fácil el trabajo de los músicos',
+            image: 'https://i.ibb.co/TM7S86h8/Screenshot-2025-03-04-231936.png',
+            link: 'https://www.behance.net/gallery/219435429/Musik-(-project-preview)',
             progress: 50,
           },
           {
